@@ -154,6 +154,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | ----- |
 | [Animista](https://animista.net) |
 | [Animate.css](https://animate.style) |
+| [Animations IO](https://cssanimation.io/)|
 | [Magic effects](https://www.minimamente.com/project/magic)| 
 | [Hover.css](https://ianlunn.github.io/Hover) |
 | [CSS shake](https://elrumordelaluz.github.io/csshake) |
@@ -162,6 +163,8 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Michalsnik](https://michalsnik.github.io/aos) |
 | [Three.js](https://threejs.org) |
 | [Splidejs](https://splidejs.com )|
+
+
 
 
 [⬆ back to top](#table-of-contents)
